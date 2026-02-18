@@ -1,10 +1,10 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Faroouq;Bazooka" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Omar+Mahmoud;" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center"> <!-- Job -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7617B&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Software+Engineer;Oracle+Developer;Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7617B&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Software+Engineer;Back-End+Developer;Data+Analyst" alt="Typing SVG" /></a>
 </p> 
 
 <img align="center" src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png" style="height:1.5rem, width:3rem">
@@ -18,9 +18,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkfaroouq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkfaroouq" height="30" width="40" /></a>
-<a href="https://instagram.com/faroouqiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faroouqiii" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkfaroouq" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/omar-mahmoud-ali-b1857a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkfaroouq" height="30" width="40" /></a>
+<a href="https://instagram.com/__omarmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faroouqiii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
