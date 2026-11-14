@@ -1,36 +1,101 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+I'm+Omar+Mahmoud;" alt="Typing SVG" alt="Typing SVG" alt="Typing SVG" /></a></h1>
+# 👋 Hi, I'm Omar Mahmoud
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=007BFF&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Hi+I'm+Omar+Mahmoud;Backend+Developer;AI+Backend+Developer;Software+Engineer" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<p align="center"> <!-- Job -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7617B&center=true&vCenter=true&repeat=true&random=false&width=1000&lines=Software+Engineer;Back-End+Developer;Data+Analyst" alt="Typing SVG" /></a>
-</p> 
-
-<img align="center" src="https://raw.githubusercontent.com/LakshmanKishore/mywebsite/6b6195c5a0ef1f12d6d85cd2f120712aefb6758c/public/customhero.png" style="height:1.5rem, width:3rem">
-
-<!-- same svg
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71E6E&width=435&lines=Software+Engineer;Oracle+Developer;Data+Analyst" alt="Typing SVG" /></a>
--->
-
-
-<!-- Funny SVG --   => / https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://twitter.com/mkfaroouq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mkfaroouq" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/omar-mahmoud-ali-b1857a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mkfaroouq" height="30" width="40" /></a>
-<a href="https://instagram.com/__omarmahmoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faroouqiii" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/omar-mahmoud-ali-b1857a225" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:omahmoudali9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<!-- End Of SVG -->
+## 🙋‍♂️ About Me
 
+I'm a Computer Science enthusiast and a Business Administration graduate with a strong passion for Backend Engineering and AI-powered applications.
 
+I'm focused on building scalable backend systems, designing RESTful APIs, working with databases, and integrating Large Language Models (LLMs) into real-world applications.
 
- <!-- -  🏢 I'm a Software Engineer Student @Alx_Africa -->
-- 💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Passionate about data and backend development.
-- 🎯 Wasting my time to save other people's time.
-<!-- - ⚡ Fun Fact: I'm a Tea enthusiast and my perfect day would start and end with a cup of Tea. -->
+I enjoy solving problems, exploring new technologies, and continuously improving my software engineering skills.
+
+My current focus is on **Python, FastAPI, AI Integration, Cloud Computing, and Backend System Architecture.**
+
+## 🚀 What I'm Working On
+
+- Building backend applications using **Python and FastAPI**.
+- Developing RESTful APIs with clean and maintainable architecture.
+- Integrating LLM APIs into real-world applications.
+- Exploring **RAG, Embeddings, and Vector Search**.
+- Working with authentication, authorization, and database design.
+- Learning AWS, Docker, and CI/CD for cloud-based deployments.
+- Exploring ASP.NET Core and modern backend engineering practices.
+
+## 🛠️ Technical Skills
+
+| **Category** | **Technologies & Concepts** |
+|---|---|
+| **Programming Languages** | `JavaScript`, `TypeScript`, `Python`, `C#`, `SQL` |
+| **Frontend Development** | `React.js`, `Angular`, `HTML5`, `CSS3`, `Bootstrap` |
+| **Backend Development** | `Node.js`, `Express.js`, `FastAPI`, `ASP.NET Core`, `REST APIs` |
+| **Authentication & Security** | `JWT`, `Authentication`, `Authorization`, `Password Hashing` |
+| **Databases** | `MongoDB`, `PostgreSQL`, `Oracle`, `SQL Server` |
+| **Cloud Computing** | `AWS`, `EC2`, `S3`, `IAM`, `Lambda`, `VPC` |
+| **DevOps & Infrastructure** | `Docker`, `Kubernetes`, `Terraform`, `GitHub Actions`, `CI/CD` |
+| **AI & Integration** | `LLM APIs`, `Prompt Engineering`, `RAG`, `Embeddings`, `Vector Search` |
+| **Engineering Practices** | `Git`, `GitHub`, `API Integration`, `Database Design`, `Software Architecture`, `System Design` |
+
+## 💼 Professional Experience & Projects
+
+### Software Engineering Training | Ministry of Communications
+
+- Gained practical experience working on real-world software development requirements.
+- Contributed to a full-stack employee onboarding application using FastAPI, React, and MongoDB.
+- Worked on backend APIs, database integration, authentication, and application features.
+- Applied software engineering practices to build maintainable and organized application components.
+
+## 🎓 Education & Professional Training
+
+- **Bachelor's Degree in Commerce – Business Administration**
+  - Cairo University.
+
+- **AI-Powered Software Development Diploma**
+  - NTI / Digilians – Ro'ad Digital Pioneers Initiative.
+  - Intensive training in software development, AI integration, cloud computing, and modern development practices.
+
+- **Full-Stack Web Development**
+  - Russian Cultural Center.
+  - Practical training in full-stack application development.
+
+## ☁️ AWS Certifications & Learning
+
+- AWS Certified Cloud Practitioner – Certification Goal.
+- AWS Certified Developer – Associate – Certification Goal.
+
+## 🎯 Areas of Interest
+
+- Backend Engineering and Scalable API Development.
+- AI Backend Development and LLM Integration.
+- Full-Stack Application Architecture.
+- AWS Cloud Architecture and Infrastructure.
+- DevOps, Docker, Kubernetes, and Infrastructure as Code.
+- CI/CD Automation and Production Deployment.
+- RAG and AI-Powered Applications.
+- System Design and Distributed Systems.
+
+## 🤝 Connect With Me
+
+- **Portfolio:** [My Portfolio](https://snappy-web-cv.lovable.app)
+- **LinkedIn:** [Omar Mahmoud](https://www.linkedin.com/in/omar-mahmoud-ali-b1857a225/)
+- **Email:** [omahmoudali9@gmail.com](mailto:omahmoudali9@gmail.com)
+- **GitHub:** [OmarMahmoud22](https://github.com/OmarMahmoud22)
+
+---
+
+<p align="center">
+  <i>Building, Learning, and Growing Every Day 🚀</i>
+</p>
