@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omar Mahmoud
+# I'm Omar Mahmoud
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a Computer Science enthusiast and a Business Administration graduate with a strong passion for Backend Engineering and AI-powered applications.
 
@@ -25,7 +25,7 @@ I enjoy solving problems, exploring new technologies, and continuously improving
 
 My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Computing, and Backend System Architecture.**
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Building backend applications using **Python and FastAPI**.
 - Developing RESTful APIs with clean and maintainable architecture.
@@ -35,7 +35,7 @@ My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Comput
 - Learning AWS, Docker, and CI/CD for cloud-based deployments.
 - Exploring ASP.NET Core and modern backend engineering practices.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | **Category** | **Technologies & Concepts** |
 |---|---|
@@ -49,7 +49,7 @@ My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Comput
 | **AI & Integration** | `LLM APIs`, `Prompt Engineering`, `RAG`, `Embeddings`, `Vector Search` |
 | **Engineering Practices** | `Git`, `GitHub`, `API Integration`, `Database Design`, `Software Architecture`, `System Design` |
 
-## 💼 Professional Experience & Projects
+## Professional Experience & Projects
 
 ### Software Engineering Training | Ministry of Communications
 
@@ -76,7 +76,7 @@ My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Comput
 - AWS Certified Cloud Practitioner – Certification Goal.
 - AWS Certified Developer – Associate – Certification Goal.
 
-## 🎯 Areas of Interest
+## Areas of Interest
 
 - Backend Engineering and Scalable API Development.
 - AI Backend Development and LLM Integration.
@@ -87,7 +87,7 @@ My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Comput
 - RAG and AI-Powered Applications.
 - System Design and Distributed Systems.
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 - **Portfolio:** [My Portfolio](https://snappy-web-cv.lovable.app)
 - **LinkedIn:** [Omar Mahmoud](https://www.linkedin.com/in/omar-mahmoud-ali-b1857a225/)
