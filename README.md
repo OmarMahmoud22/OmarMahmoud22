@@ -23,7 +23,7 @@ I'm focused on building scalable backend systems, designing RESTful APIs, workin
 
 I enjoy solving problems, exploring new technologies, and continuously improving my software engineering skills.
 
-My current focus is on **Python, FastAPI, AI Integration, Cloud Computing, and Backend System Architecture.**
+My current focus is on **Python, C#, .NET, FastAPI, AI Integration, Cloud Computing, and Backend System Architecture.**
 
 ## 🚀 What I'm Working On
 
